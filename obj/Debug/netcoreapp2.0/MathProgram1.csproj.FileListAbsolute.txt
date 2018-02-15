@@ -1,0 +1,10 @@
+/Users/Guero/Documents/Code/MathProgram1/bin/Debug/netcoreapp2.0/MathProgram1.deps.json
+/Users/Guero/Documents/Code/MathProgram1/bin/Debug/netcoreapp2.0/MathProgram1.runtimeconfig.json
+/Users/Guero/Documents/Code/MathProgram1/bin/Debug/netcoreapp2.0/MathProgram1.runtimeconfig.dev.json
+/Users/Guero/Documents/Code/MathProgram1/bin/Debug/netcoreapp2.0/MathProgram1.dll
+/Users/Guero/Documents/Code/MathProgram1/bin/Debug/netcoreapp2.0/MathProgram1.pdb
+/Users/Guero/Documents/Code/MathProgram1/obj/Debug/netcoreapp2.0/MathProgram1.csproj.CoreCompileInputs.cache
+/Users/Guero/Documents/Code/MathProgram1/obj/Debug/netcoreapp2.0/MathProgram1.AssemblyInfoInputs.cache
+/Users/Guero/Documents/Code/MathProgram1/obj/Debug/netcoreapp2.0/MathProgram1.AssemblyInfo.cs
+/Users/Guero/Documents/Code/MathProgram1/obj/Debug/netcoreapp2.0/MathProgram1.dll
+/Users/Guero/Documents/Code/MathProgram1/obj/Debug/netcoreapp2.0/MathProgram1.pdb
